@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=5.2.1
+pandas>=2.2.0
+python-dotenv>=1.0.1
+# Optional, only for heavily JS-rendered sites:
+# playwright>=1.45.0
